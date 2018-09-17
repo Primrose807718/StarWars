@@ -11,7 +11,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Primrose Smith
+ * @author Primrose
  */
 public class Hero extends Character {
     
