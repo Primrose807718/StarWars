@@ -112,7 +112,7 @@ public class Space extends JPanel {
             
             System.out.println(x+" "+y);
             //if ( x > 1200 || y > 960 ) {
-               // break;
+             //  break;
             //}
         }
     }
@@ -131,7 +131,7 @@ public class Space extends JPanel {
             
             System.out.println(x+" "+y);
             //if ( x > 1200 || y > 960 ) {
-               // break;
+             //  break;
             //}
         }
     }
@@ -150,7 +150,7 @@ public class Space extends JPanel {
             
             System.out.println(x+" "+y);
            // if ( x > 1200 || y > 960 ) {
-                //break;
+            //  break;
            // }
         }
     }
@@ -169,7 +169,7 @@ public class Space extends JPanel {
             
             System.out.println(x+" "+y);
            // if ( x > 1200 || y > 960 ) {
-              //  break;
+            //  break;
            // }
         }
     }
