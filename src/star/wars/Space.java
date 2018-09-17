@@ -14,7 +14,7 @@ import java.util.TimerTask;
 
 /**
  *
- * @author Primrose Smith
+ * @author Primrose
  */
 public class Space extends JPanel {
     
