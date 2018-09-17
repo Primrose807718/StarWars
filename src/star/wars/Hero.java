@@ -28,7 +28,7 @@ public class Hero extends Character {
         health = 3;
     }
     
-    //Getters     
+    //Getters    
     public int getHealth() {
         return health;
     }
