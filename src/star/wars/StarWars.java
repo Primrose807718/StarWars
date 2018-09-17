@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Primrose Smith
+ * @author Primrose
  */
 public class StarWars {
 
