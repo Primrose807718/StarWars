@@ -104,11 +104,11 @@ public class Character {
     }
     
     public void move(int dx, int dy) {
-        x += dx * 3;
-        y += dy * 3;
+        x += dx * 4;
+        y += dy * 4;
     }
     
-        public void update() {
+    public void update() {
         move(dx, dy);
     }
         
@@ -116,14 +116,14 @@ public class Character {
      * Makes the character "bounce" and reverse direction on X axis 
      */
     public void reverseX() {
-        //TODO Implement this method
+        
     }
     
     /**
      * Makes the character "bounce" and reverse direction on Y axis 
      */
     public void reverseY() {
-        //TODO Implement this method
+        
     }
     
     //private methods
